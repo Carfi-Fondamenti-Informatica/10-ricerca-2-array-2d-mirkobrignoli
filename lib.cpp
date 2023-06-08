@@ -1,4 +1,5 @@
 #include "lib.h"
+#include <iostream>
 
 bool cerca(char listanome[10][20], int &pos, char a[]){
     for(int i=0;i<10;i++){
