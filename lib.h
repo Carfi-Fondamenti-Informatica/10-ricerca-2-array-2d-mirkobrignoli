@@ -1,5 +1,5 @@
 #ifndef lib_h
 #define lib_h
-bool cerca(char[10][20], int &, char[]);
+bool cerca(char lista[][20], int pos, char a []);
 
 #endif
